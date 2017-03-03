@@ -5,7 +5,7 @@ An Annual Publication of Satisfactory Methods for the Preparation of Organic Che
 
 
 This is a git repository of the source files for the book Organic Syntheses
-An Annual Publication of Satisfactory Methods for the Preparation of Organic Chemicals by . This book is in the Public Domain, see the LICENSE file for details.
+An Annual Publication of Satisfactory Methods for the Preparation of Organic Chemicals by James Bryant Conant, ed.. This book is in the Public Domain, see the LICENSE file for details.
 
 Found an error?
 ===============

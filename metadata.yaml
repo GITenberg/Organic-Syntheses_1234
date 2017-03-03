@@ -1,5 +1,7 @@
 _repo: Organic-Syntheses_1234
-_version: 0.0.1
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Conant, James Bryant
@@ -24,7 +26,6 @@ subjects:
 - !lcsh 'Chemistry, Organic'
 - !lcsh 'Organic compounds -- Synthesis'
 - !lcc 'QD'
-- GITenberg
 title: "Organic Syntheses\r\nAn Annual Publication of Satisfactory Methods for the\
   \ Preparation of Organic Chemicals"
 url: http://www.gutenberg.org/ebooks/1234
