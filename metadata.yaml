@@ -1,5 +1,8 @@
 _repo: Organic-Syntheses_1234
-_version: 0.0.4
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: cover.png
 creator:
   editor:
     agent_name: Conant, James Bryant
